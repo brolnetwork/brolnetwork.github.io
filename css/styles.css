@@ -298,10 +298,10 @@ margin-bottom: 30px;
 	border: 0;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-	color: #fff;
+	color: #000;
 }
 .navbar-inverse .navbar-toggle:hover .icon-bar {
-	background: #fff;
+	background: #000;
 }
 .navbar-toggle {
 }
@@ -384,7 +384,7 @@ margin-bottom: 30px;
 	font-weight: 900;
 }
 .navbar-brand b i {
-	color: #fff;
+	color: #000;
 	font-style: normal;
 }
 .logo {
@@ -411,7 +411,7 @@ line-height: 36px;
 text-align: center;
 }
 .navbar-inverse .navbar-nav > li > a {
-	color: #fff;
+	color: #000;
 	font-size: 1.2em;
 	line-height: normal;
 	margin: 17px;
@@ -421,16 +421,16 @@ text-align: center;
 	font-weight: 400;
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-	color: #fff;
+	color: #000;
 	background: none;
-	border: 1px solid #FFFFFF;
+	border: 1px solid #000;
 	border-radius: 0px;
 }
 .navbar-inverse .navbar-nav > .active {
-    color: #fff;
+    color: #000;
 }
 .navbar-nav > li:hover > a {
-	color: #fff;
+	color: #000;
 }
 .header .navbar-nav > li > a {
 	padding: 25px 18px;
@@ -1039,7 +1039,7 @@ padding:35px 0;
     padding: 5px;
     background-color: #13c0ba;
     border-radius: 15px;
-    color: #fff;  
+    color: #000;  
 }
 .nav.nav-justified > li.active > a > .quote { opacity: 1; }
 .nav.nav-justified > li > a > img { box-shadow: 0 0 0 5px #13c0ba; }
@@ -1078,7 +1078,7 @@ padding:35px 0;
 	float: right;
 }
 .navbar-inverse .navbar-nav > li > a {
-	color: #fff;
+	color: #000;
 	font-size: 1.1em;
 	padding: 6px 14px !important;
 	border-radius: 5px;
